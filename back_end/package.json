@@ -1,0 +1,15 @@
+{
+  "name": "powershell_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Scheck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-powershell": "^4.0.0"
+  }
+}
